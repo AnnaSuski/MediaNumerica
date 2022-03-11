@@ -1,0 +1,9 @@
+F:\ds\medianumerica\projetomedianumerica\bin\Debug\projetomedianumerica.exe.config
+F:\ds\medianumerica\projetomedianumerica\bin\Debug\projetomedianumerica.exe
+F:\ds\medianumerica\projetomedianumerica\bin\Debug\projetomedianumerica.pdb
+F:\ds\medianumerica\projetomedianumerica\obj\Debug\projetomedianumerica.csprojResolveAssemblyReference.cache
+F:\ds\medianumerica\projetomedianumerica\obj\Debug\projetomedianumerica.Form1.resources
+F:\ds\medianumerica\projetomedianumerica\obj\Debug\projetomedianumerica.Properties.Resources.resources
+F:\ds\medianumerica\projetomedianumerica\obj\Debug\projetomedianumerica.csproj.GenerateResource.Cache
+F:\ds\medianumerica\projetomedianumerica\obj\Debug\projetomedianumerica.exe
+F:\ds\medianumerica\projetomedianumerica\obj\Debug\projetomedianumerica.pdb
